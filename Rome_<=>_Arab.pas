@@ -1,6 +1,6 @@
 {Васильков Александр. ИКТ-13}
 
-program Rome_to_Arab;
+program Rome_<=>_Arab;
 
 var
   s,res1,f,n1:string;
